@@ -1,0 +1,111 @@
+const Coursearray =[
+    {
+        image:'/image/react.png',
+        title:"React ",
+        text:"Click on the Button below to know more about this Course.",
+        category:"programming",
+    },
+    {
+        image:'/image/intern.jpg',
+        title:"Internship",
+        text:"Click on the Button below to know more about this Course.",
+        category:"career",
+    },
+    {
+        image:'/image/tally.png',
+        title:"Tally",
+        text:"Click on the Button below to know more about this Course.",
+        category:"business",
+    },
+    {
+        image:'/image/data-analytics.jpg',
+        title:"Data Analytics",
+        text:"Click on the Button below to know more about this Course.",
+        category:"datascience",
+    },
+    {
+        image:'/image/Python.png',
+        title:" python ",
+        text:"Click on the Button below to know more about this Course.",
+        category:"programming",
+    },
+    {
+        image:'/image/human.jpg',
+        title:"Human Resource Management",
+        text:"Click on the Button below to know more about this Course.",
+        category:"business",
+    },
+    {
+        image:'/image/design.jpg',
+        title:"UI/UX Design",
+        text:"Click on the Button below to know more about this Course.",
+        category:"design",
+    },
+    {
+        image:'/image/job.jpg',
+        title:"Job Preparation",
+        text:"Click on the Button below to know more about this Course.",
+        category:"career",
+    },
+    {
+        image:'/image/graphic.jpg',
+        title:"Graphic Design",
+        text:"Click on the Button below to know more about this Course.",
+        category:"design",
+    },
+    {
+        image:'/image/business.jpg',
+        title:"Business Communication skills",
+        text:"Click on the Button below to know more about this Course.",
+        category:"career",
+    },
+    {
+        image:'/image/Java.jpg',
+        title:" Java ",
+        text:"Click on the Button below to know more about this Course.",
+        category:"programming",
+    },
+    {
+        image:'/image/android.png',
+        title:" Android App Development ",
+        text:"Click on the Button below to know more about this Course.",
+        category:"programming",
+    },
+    {
+        image:'/image/Machine.jpg',
+        title:" Machine Learning ",
+        text:"Click on the Button below to know more about this Course.",
+        category:"datascience",
+    },
+    {
+        image:'/image/Ai.jpg',
+        title:" Artificial Intelligence",
+        text:"Click on the Button below to know more about this Course.",
+        category:"datascience",
+    },
+    {
+        image:'/image/digital.jpg',
+        title:"Digital Marketing",
+        text:"Click on the Button below to know more about this Course.",
+        category:"business",
+    },
+    {
+        image:'/image/excel.png',
+        title:"Advanced Excel",
+        text:"Click on the Button below to know more about this Course.",
+        category:"business",
+    },
+    {
+        image:'/image/stock.jpg',
+        title:"Stock Marketing",
+        text:"Click on the Button below to know more about this Course.",
+        category:"business",
+    },
+    {
+        image:'/image/deep.jpg',
+        title:"Deep Learning",
+        text:"Click on the Button below to know more about this Course.",
+        category:"datascience",
+    },
+]
+export default Coursearray
